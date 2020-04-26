@@ -1,6 +1,6 @@
 # The Traveling Salesman Problem.
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-![build: passing](https://img.shields.io/badge/build-passing-success.svg)
+[![Build Status](https://travis-ci.com/FrederickBor/TravelingSalesman.svg?token=HuNyoajcDod2s5H5ssXH&branch=master)](https://travis-ci.com/FrederickBor/TravelingSalesman)
 
 ## About this repo.
 
