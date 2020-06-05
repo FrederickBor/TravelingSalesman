@@ -1,0 +1,6 @@
+Graph file,Number of explored nodes (Only Factible),Solution time (Only Factible) [in ns],Average time per node (Only Factible) [in ns],Number of explored nodes (First Branch and Bound),Solution time (First Branch and Bound) [in ns],Average time per node (First Branch and Bound) [in ns],Number of explored nodes (Second Branch and Bound),Solution time (Second Branch and Bound) [in ns],Average time per node (Second Branch and Bound) [in ns],Solution,Solution cost
+graph5_5.in,42,1451078,118836,42,453566,21383,14,197498,26300,0->1->2->4->3,67.0
+graph10_9.in,320351,303242095,4538,320351,244088986,3485,1242,4359223,15793,0->8->2->3->6->9->4->5->7->1,138.0
+graph13_12.in,359234464,218510622895,3715,359234464,230909073147,3759,1039,4264167,24824,0->7->4->9->1->3->5->2->6->11->12->8->10,85.0
+graph12_11.in,32959643,18443342250,3137,32959643,19184273125,3145,1235,4701155,22303,0->9->6->5->4->10->3->7->2->8->1->11,79.0
+graph11_10.in,3056457,1576351166,2636,3056457,1656023590,2665,157,556229,18973,0->8->5->3->7->4->9->6->2->10->1,96.0

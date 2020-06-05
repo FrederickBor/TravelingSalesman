@@ -17,8 +17,8 @@ def exploredNodesGraph(df, filename):
     xAxis = "Graph file"
     filePath = "images/" + filename + "/" + filename + "_ExploredNodes" + ".jpg"
     title = "Explored Nodes"
-    xTitle = "Number of nodes"
-    yTitle = "Graph file"
+    yTitle = "Number of nodes"
+    xTitle = "Graph file"
     generateGraph(df, xAxis, yAxis, filePath, title, xTitle, yTitle)
 
 def solutionTimeGraph(df, filename):
@@ -28,8 +28,8 @@ def solutionTimeGraph(df, filename):
     xAxis = "Graph file"
     filePath = "images/" + filename + "/" + filename + "_SolutionTime" + ".jpg"
     title = "Solution Times"
-    xTitle = "Time in ns"
-    yTitle = "Graph file"
+    yTitle = "Time in ns"
+    xTitle = "Graph file"
     generateGraph(df, xAxis, yAxis, filePath, title, xTitle, yTitle)
 
 def avgTimeNodeGraph(df, filename):
@@ -48,8 +48,8 @@ def solutionCostGraph(df,filename):
     xAxis = "Graph file"
     filePath = "images/" + filename + "/" + filename + "_SolutionCost" + ".jpg"
     title = "Solution Costs"
-    xTitle = "Solution final cost"
-    yTitle = "Graph file"
+    yTitle = "Solution final cost"
+    xTitle = "Graph file"
     generateGraph(df, xAxis, yAxis, filePath, title, xTitle, yTitle)
 
 if __name__ == "__main__":
