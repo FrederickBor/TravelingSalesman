@@ -12,11 +12,11 @@ The graphs generated are:
 
 Average of time per explored node | Number of explored nodes
 :------------: | :-------------:
-![Average Time per Node](images/output2020_04_12_00_37_29/output2020_04_12_00_37_29_AvgTimePerNode.jpg) | ![Explored Nodes](images/output2020_04_12_00_37_29/output2020_04_12_00_37_29_ExploredNodes.jpg)
+![Average Time per Node](images/output2020_04_28_20_20_51/output2020_04_28_20_20_51_AvgTimePerNode.jpg) | ![Explored Nodes](images/output2020_04_28_20_20_51/output2020_04_28_20_20_51_ExploredNodes.jpg)
 
 Solution cost | Solutions times
 :------------: | :-------------:
-![Solution Cost](images/output2020_04_12_00_37_29/output2020_04_12_00_37_29_SolutionCost.jpg) | ![Solution Time](images/output2020_04_12_00_37_29/output2020_04_12_00_37_29_SolutionTime.jpg)
+![Solution Cost](images/output2020_04_28_20_20_51/output2020_04_28_20_20_51_SolutionCost.jpg) | ![Solution Time](images/output2020_04_28_20_20_51/output2020_04_28_20_20_51_SolutionTime.jpg)
 
 ## How to add a new graph
 
